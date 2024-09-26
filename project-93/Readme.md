@@ -1,4 +1,6 @@
 # Asset Tracking Smart Contract
+id: 0x86def6b4b514eb5f25fca16f2780cbc856b928fcdfd72265e77b3c2bda1c0f73
+SS:- ![Screenshot 2024-09-26 145229](https://github.com/user-attachments/assets/bc0d7a1d-3197-4e05-a9c7-4d850f980926)
 
 ## Vision
 
